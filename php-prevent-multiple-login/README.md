@@ -1,0 +1,6 @@
+# Prerequisites
+[ Php ]
+[ Mysql ]
+[ Xamp ]
+
+
